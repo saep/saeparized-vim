@@ -12,13 +12,16 @@ theme after it with a touch of me.
 
 Simply clone the repository into your /bundle/ folder. For a default
 configuration this should suffice:
+
 > git clone https://github.com/saep/saeparized-vim.git ~/.vim/bundle/saeparized
 
 ### Manually
 
 Copy the saeparized.vim to your vim configurations colors folder. For a default
 configuration the folder should be located at:
+
 > ~/.vim/colors
+
 If the folder does not exist, simply create it.
 
 ## Terminal colors
