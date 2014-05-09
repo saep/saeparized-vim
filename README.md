@@ -15,6 +15,12 @@ configuration this should suffice:
 
 > git clone https://github.com/saep/saeparized-vim.git ~/.vim/bundle/saeparized
 
+### VAM (a.k.a. Vim-Addon-Manager)
+
+Add the script to your configuration the usual way by adding the following entry.
+
+> github:saep/saeparized-vim
+
 ### Manually
 
 Copy the saeparized.vim to your vim configurations colors folder. For a default
