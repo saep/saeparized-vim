@@ -50,6 +50,8 @@ hi WildMenu ctermfg=1 ctermbg=8 cterm=bold
 hi DiffChange ctermbg=5 ctermfg=0 cterm=none
 hi DiffDelete ctermfg=1 ctermbg=8 cterm=NONE
 hi DiffAdd ctermfg=0 ctermbg=2 cterm=NONE
+hi Pmenu ctermfg=15 ctermbg=0 cterm=reverse
+hi PmenuSel ctermfg=6 ctermbg=0 cterm=reverse
 
 " Syntax {{{1
 hi Constant ctermfg=14 ctermbg=0 cterm=NONE
