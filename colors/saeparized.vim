@@ -54,6 +54,11 @@ hi DiffText ctermfg=15 ctermbg=8 cterm=bold
 hi Pmenu ctermfg=15 ctermbg=0 cterm=reverse
 hi PmenuSel ctermfg=6 ctermbg=0 cterm=reverse
 
+" Signs {{{1
+hi SignWarning ctermfg=0 ctermbg=3 cterm=NONE
+hi SignInformation ctermfg=0 ctermbg=15 cterm=NONE
+hi SignHint ctermfg=4 ctermbg=15 cterm=NONE
+
 " Syntax {{{1
 hi Constant ctermfg=14 ctermbg=0 cterm=NONE
 hi MatchParen ctermfg=0 ctermbg=11 cterm=NONE
