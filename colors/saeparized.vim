@@ -67,6 +67,8 @@ hi Special ctermfg=7 ctermbg=0 cterm=NONE
 hi Comment ctermfg=9 ctermbg=0 cterm=NONE
 hi Constant ctermfg=14 ctermbg=0 cterm=NONE
 hi Identifier ctermfg=7 ctermbg=0 cterm=NONE
+hi diffAdded ctermfg=2 ctermbg=0 cterm=NONE
+hi diffRemoved ctermfg=1 ctermbg=0 cterm=NONE
 hi PreProc ctermfg=1 ctermbg=0 cterm=NONE
 hi Type ctermfg=3 ctermbg=0 cterm=NONE
 hi Underlined cterm=underline
