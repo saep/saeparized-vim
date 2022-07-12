@@ -76,6 +76,7 @@ hi Error ctermfg=1 guifg=#D16969 ctermbg=0 guibg=#1E1E1E cterm=reverse gui=rever
 hi Todo ctermfg=13 guifg=#68217A ctermbg=0 guibg=#1E1E1E cterm=bold gui=bold
 hi Normal ctermfg=15 guifg=#D4D4CF ctermbg=0 guibg=#1E1E1E cterm=NONE gui=NONE
 hi Conceal ctermbg=0 guibg=#1E1E1E cterm=bold gui=bold
+hi StatusLine ctermfg=14 guifg=#D4D4CF ctermbg=1 guibg=#1E1E1E cterm=NONE gui=NONE
 
 " Haskell specific {{{2
 hi link hsExprKeyword Statement
